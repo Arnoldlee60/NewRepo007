@@ -1,0 +1,48 @@
+<style>
+
+        body {
+          background-color: white;
+        }
+    
+        h1 {
+          color: black;
+          text-decoration: underline;
+        }
+    
+        h2{
+          color: black;
+        }
+    
+        .red {
+          color: red;
+        }
+    
+        .blue {
+          color: blue;
+        }
+    
+        .green {
+          color: green;
+        } 
+        
+
+        h3 {
+            font-size: 40px;
+            font-family: cursive;
+          }
+
+        h4 {
+            font-size: 12px;
+            font-family: cursive;
+          }
+        
+          p {
+            color: green
+          }
+          #borderimg {
+            border: 10px orange;
+            padding: 15px;
+            border-image: url("border.png") 3900 round;
+          }
+    
+      </style>
